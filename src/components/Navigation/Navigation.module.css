@@ -1,0 +1,27 @@
+.headerLink {
+    padding: 12px 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+   
+}
+
+.active {
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.logOutBtn{
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 4px 8px;
+   
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 15px;
+}

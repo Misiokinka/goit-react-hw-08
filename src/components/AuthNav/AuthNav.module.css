@@ -1,0 +1,19 @@
+.headerLink {
+    padding: 15px 35px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+  
+
+}
+
+.active {
+    color: white;
+    font-size: 20px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+

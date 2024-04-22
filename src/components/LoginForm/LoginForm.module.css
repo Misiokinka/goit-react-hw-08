@@ -1,0 +1,37 @@
+.formLogin {
+    border: 1px solid black;
+    padding: 40px 40px;
+    margin:70px auto;
+    max-width: 320px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #faf0e6;
+    color: black;
+}
+
+.labelLogin {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 12px;
+}
+
+.formLoginText {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.formInputLogin {
+    padding: 6px 11px;
+}
+
+.submitBtn {
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 4px 8px;
+    margin-top: 15px;
+}
+
+.errorMsg {
+    color: red;
+}
